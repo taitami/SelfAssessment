@@ -4,8 +4,8 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm h
+  - Syntax h
   - Semantics
   - Abstraction
   - Paradigm
@@ -32,10 +32,10 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value h
+  - Identifier h
+  - Variable h
+  - Constant h
   - Scalar
   - Literal
   - Expression
@@ -91,7 +91,7 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion h
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array h
   - Structure
   - Record
   - Enum
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
