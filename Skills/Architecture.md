@@ -24,7 +24,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality h
+  - Quality: 🎓 known
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -75,7 +75,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code
