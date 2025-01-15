@@ -5,9 +5,9 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming u
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming k
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -17,7 +17,7 @@
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming h
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,14 +27,14 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor k
+  - Operator `new` h
   - Static method
-  - Method
+  - Method u
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields h
+  - Private fields h
   - Field declarations
   - Inheritance
   - Parent class

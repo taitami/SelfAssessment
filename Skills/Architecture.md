@@ -24,7 +24,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality h
+  - Quality k
   - Availability
   - Flexibility
   - Law of Demeter (LoD)

@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`
-  - `String`
+  - `String` u
   - `Symbol`
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `NaN` k
+  - `undefined` u
+  - `null` k
   - `this`
   - `instanceof`
-  - `...spread`
+  - `...spread` u
   - `...rest`
   - `typeof`
   - Destructuring
@@ -48,7 +48,7 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
+  - `Number.parseInt` u
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -59,50 +59,50 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` h
-  - `while` h
-  - `do..while` h
-  - `for` h
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `throw` k
+  - `break` u
+  - `continue` u
+  - `import` k
   - `export`
   - `label`
-  - `try..catch`
+  - `try..catch` h
   - `switch`
-  - `class`
+  - `class` k
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
-  - Function declaration
+  - Function declaration u
   - Function expression
-  - Default parameters
+  - Default parameters u
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array` h
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+  - `Array` u
+  - `Map` u
+  - `Set` u
+  - `WeakMap` h
+  - `WeakSet` h
   - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - Mixins k
+  - `Object.assign` k
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` k
+  - `Math` u
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -110,13 +110,13 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise` k
+  - `console` u
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 h
+  - Node.js u
+  - npm u
+  - prettier u
+  - MDN k
   - TC39

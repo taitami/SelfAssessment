@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm h
-  - Syntax h
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
   - Library
@@ -21,34 +21,34 @@
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse u
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) 
   - KISS principle
 - Syntax and concepts
-  - Value h
-  - Identifier h
-  - Variable h
-  - Constant h
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
+  - Literal h
+  - Expression h
+  - Heap h
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method u
+  - Class k
   - Prototype
   - Event
   - Type
   - Flag
-  - Lexical scope
+  - Lexical scope k
   - Code block
   - Conditions
   - Loops
@@ -59,11 +59,11 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case h
+  - Kebab case h
   - Trailing commas
-  - Return early
+  - Return early k
   - Fail-fast
 - Types
   - Primitive types
@@ -82,35 +82,35 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure h
   - Partial application
   - Currying
   - Higher order
-  - Recursion h
+  - Recursion u
   - Tail call optimisation
   - Callback
   - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
+  - Composition h
+  - Pipe h
+  - Memoize u
+  - Wrapper h
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array h
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -118,8 +118,8 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue h
+  - Stack h
   - Deque
   - Tree
   - Graph
@@ -135,7 +135,7 @@
   - DNS
   - CDN
   - CORS
-  - IPv4
+  - IPv4 h
   - IPv6
   - NAT
   - URL
@@ -164,15 +164,15 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers k
+  - Hard code k
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -181,19 +181,19 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code h
+  - Unreachable code h
+  - Duplicate code h
   - Premature optimization
-  - Micro-optimization
-  - Nested loops
+  - Micro-optimization h
+  - Nested loops h
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,8 +202,8 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode h
+  - V8 h
   - VJM
   - CLR
   - Mono
