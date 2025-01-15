@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String` u
+  - `String`: 🖐️ used
   - `Symbol`
   - `Infinity`
-  - `NaN` k
-  - `undefined` u
-  - `null` k
+  - `NaN`: 🎓 known
+  - `undefined`: 🖐️ used
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
-  - `...spread` u
+  - `...spread`: 🖐️ used
   - `...rest`
   - `typeof`
   - Destructuring
@@ -48,7 +48,7 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` u
+  - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -59,50 +59,50 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` k
-  - `break` u
-  - `continue` u
-  - `import` k
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🎓 known
   - `export`
   - `label`
-  - `try..catch` h
+  - `try..catch`: 👂 heard
   - `switch`
-  - `class` k
+  - `class`: 🎓 known
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function u
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration u
+  - Function declaration: 🖐️ used
   - Function expression
-  - Default parameters u
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
-  - `Map` u
-  - `Set` u
-  - `WeakMap` h
-  - `WeakSet` h
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
+  - `WeakMap`: 👂 heard
+  - `WeakSet`: 👂 heard
   - Typed arrays
-  - Mixins k
-  - `Object.assign` k
+  - Mixins: 🎓 known
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` k
-  - `Math` u
+  - `Date`: 🎓 known
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -110,13 +110,13 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` k
-  - `console` u
+  - `Promise`: 🎓 known
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
-  - V8 h
-  - Node.js u
-  - npm u
-  - prettier u
-  - MDN k
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🎓 known
   - TC39

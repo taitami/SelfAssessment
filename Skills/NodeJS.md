@@ -11,8 +11,8 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules h
-  - ECMAScript modules h
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS h
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -107,10 +107,10 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD h
+  - CRUD: 👂 heard
   - DTO
 - Error handling and debugging
-  - `Error` h
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`

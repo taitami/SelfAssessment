@@ -38,7 +38,7 @@
   - Globalization and localization
 - Network and Protocols
   - HTTP/HTTPS support
-  - WebSockets for real-time communication h
+  - WebSockets for real-time communication: 👂 heard
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`

@@ -5,9 +5,9 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming u
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming k
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -17,7 +17,7 @@
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming h
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,14 +27,14 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor k
-  - Operator `new` h
+  - Constructor: 🎓 known
+  - Operator `new`: 👂 heard
   - Static method
-  - Method u
+  - Method: 🖐️ used
   - Async method
   - Getters, Setters
-  - Public fields h
-  - Private fields h
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
   - Inheritance
   - Parent class
